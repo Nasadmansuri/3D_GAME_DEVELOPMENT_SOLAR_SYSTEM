@@ -1,2 +1,3 @@
-# 3D_GAME_DEVELOPMENT_SOLAR_SYSTEM
-This is about unity project of 3D module.
+# 3D_GAME_DEVELOPMENT_VIRTUAL_MUSEUM
+This is about unity project of 3D module
+VIRTUAL MUSEUM WITH SOLAR SYSTEM QUIZ BASED INTERACTIVE
